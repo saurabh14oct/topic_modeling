@@ -6,3 +6,4 @@ kaggle.com/therohk/million-headlines/data#abcnews-date-text.csv
 
 # recommendation System
 https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/
+https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/
